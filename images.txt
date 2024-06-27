@@ -8,3 +8,5 @@ mysql:8.0.32
 mongodb/mongodb-community-server
 redis
 portainer/portainer-ce
+mysql:8.4.0
+harisekhon/hbase
