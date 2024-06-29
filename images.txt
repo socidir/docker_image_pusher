@@ -5,8 +5,8 @@ mongodb/mongodb-community-server
 redis
 portainer/portainer-ce
 harisekhon/hbase
-bde2020/hadoop-datanode
-bde2020/hadoop-namenode
 apache/hadoop
 apache/spark
 apache/hive
+elasticsearch
+kibana
