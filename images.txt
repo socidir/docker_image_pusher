@@ -1,3 +1,4 @@
+pingcap/tidb:latest
 mysql:8.0.40
 elasticsearch:8.14.1
 kibana:8.14.1
